@@ -1,0 +1,35 @@
+
+#:import C kivy.utils.get_color_from_hex
+<actionbar_window>
+    BoxLayout:
+        id: main_layout
+        orientation: 'vertical'
+        ActionBar:
+            background_image: "white_bg.jpg"
+            background_color: C("#20444F")
+            id: action
+            pos_hint: {'top':1}
+            ActionView:
+                id: views
+                ActionPrevious:
+                	with_previous: False
+                    app_icon:""
+                ActionButton:
+                    id: config
+                    text: "Config"
+
+                ActionButton:
+                    id: menu
+                    text: "Menu"
+
+                ActionButton:
+                    id: add
+                    text: "Add drinks"
+
+                ActionButton:
+                    id: remove
+                    text: "Remove Drinks"
+
+
+        ScreenManager:
+            id: sm
