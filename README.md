@@ -1,8 +1,6 @@
-<html>
-<body>
-<p align="center">
-<h1>Robot-cocktailmixer-V2</h1>
-</p>
+
+# Robot-cocktailmixer-V2
+
 
 A robot cocktail mixer which mixes drinks based on user input.
 
@@ -12,15 +10,3 @@ A robot cocktail mixer which mixes drinks based on user input.
 </p>
 
 
-
-
-
-<head>
-<style>
-h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
-</style>
-</head>
-</body>
-</html>
