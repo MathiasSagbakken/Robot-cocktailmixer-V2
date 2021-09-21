@@ -16,10 +16,10 @@ A robot cocktail mixer which mixes drinks based on user input. A drink is chosen
 
 The python (GUI) part only requires Kivy gui, and Serial which can easly be obtained with pip install. Easiest way of making kivy work is to install it with conda.
 
-* Requires kivy 2.0
-* Requires serial
+* Requires kivy 2.0	(conda install kivy -c conda-forge)
+* Requires serial	(pip install serial)
 
-note: The GUI is coded in a way that it requires to be connected to an arduino so that it has a serial connection to start. This is commented out in the code, so this will not be a problem if you only want to boot up the GUI without having to deal with an arduino.
+note: The GUI is coded in a way that it requires to be connected to an arduino so that it has a serial connection to start. This is commented out in the code, so this will not be a problem if you only want to boot up the GUI without having to deal with an arduino. As stated in the kivy install guide, its recomended to install kivy in a virtual enviroment.
 
 <p align="center">
 <img src="https://github.com/MathiasSagbakken/Robot-cocktailmixer-V2/blob/master/robot_gif1.gif" alt="robot_cocktailmixer"
