@@ -1,5 +1,5 @@
 <p align="center">
-# Robot-cocktailmixer-V2
+<h1>Robot-cocktailmixer-V2</h1>
 </p>
 
 A robot cocktail mixer which mixes drinks based on user input.
