@@ -12,6 +12,16 @@ A robot cocktail mixer which mixes drinks based on user input. A drink is chosen
 	title="Front view of the robot" width="400" height="600" />
 </p>
 
+# How to run the software
+
+* Requires kivy 2.0
+
+<p align="center">
+<img src="https://github.com/MathiasSagbakken/Robot-cocktailmixer-V2/blob/master/robot_gif1.gif" alt="robot_cocktailmixer"
+	title="Front view of the robot" width="800" height="450" />
+</p>
+
+
 # Motivation and solution to problem
 
 As a student of robotics and artificial intelligence I enjoy creating projects on the side wich introduces physical and virtual problems that is not always so common in the academia side of my studies. I saw examples of these types of robots and thought it would make a great project. This project was very much made from scratch starting with planning the design of the robot and then implementation of code.
@@ -24,11 +34,6 @@ I wanted to make the software side convenient and easy to use. Therefore all one
 	title="Front view of the robot" width="400" height="600" />
 </p>
 
-# How to run the software
 
-<p align="center">
-<img src="https://github.com/MathiasSagbakken/Robot-cocktailmixer-V2/blob/master/robot_gif1.gif" alt="robot_cocktailmixer"
-	title="Front view of the robot" width="800" height="450" />
-</p>
 
 
