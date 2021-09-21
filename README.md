@@ -1,3 +1,5 @@
+<html>
+<body>
 <p align="center">
 <h1>Robot-cocktailmixer-V2</h1>
 </p>
@@ -20,3 +22,5 @@ p {text-align: center;}
 div {text-align: center;}
 </style>
 </head>
+</body>
+</html>
