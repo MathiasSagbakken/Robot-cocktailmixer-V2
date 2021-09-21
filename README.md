@@ -14,7 +14,7 @@ A robot cocktail mixer which mixes drinks based on user input. A drink is chosen
 
 # Motivation and development history
 
-As a student of robotics and artificial intelligence I enjoy creating projects on the side wich introduces physical and virtual problems that is not always so common in the academia side of my studies. 
+As a student of robotics and artificial intelligence I enjoy creating projects on the side wich introduces physical and virtual problems that is not always so common in the academia side of my studies. I saw examples of these types of robots and thought they would make a great project. Apart from looking similar to some robots, this is very much my design, made partly by what I had lying around and what i thought i needed. 
 
 <p align="center">
 <img src="https://github.com/MathiasSagbakken/Robot-cocktailmixer-V2/blob/master/robot_gif1.gif" alt="robot_cocktailmixer"
