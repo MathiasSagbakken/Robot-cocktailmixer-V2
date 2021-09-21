@@ -19,6 +19,8 @@ The python (GUI) part only requires Kivy gui, and Serial which can easly be obta
 * Requires kivy 2.0
 * Requires serial
 
+note: The GUI is coded in a way that it requires to be connected to an arduino so that it has a serial connection to start. This is commented out in the code, so this will not be a problem if you only want to boot up the GUI without having to deal with an arduino.
+
 <p align="center">
 <img src="https://github.com/MathiasSagbakken/Robot-cocktailmixer-V2/blob/master/robot_gif1.gif" alt="robot_cocktailmixer"
 	title="Front view of the robot" width="800" height="450" />
