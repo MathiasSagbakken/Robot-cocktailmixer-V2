@@ -1,11 +1,10 @@
 
-<p align="center">
-Robot-cocktailmixer-V2
-</p>
 
-<p align="center">
+# Robot-cocktailmixer-V2
+
+
 A robot cocktail mixer which mixes drinks based on user input.
-</p>
+
 
 
 <p align="center">
