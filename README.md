@@ -12,6 +12,9 @@ A robot cocktail mixer which mixes drinks based on user input. A drink is chosen
 	title="Front view of the robot" width="400" height="600" />
 </p>
 
+# Motivation and development history
+
+As a student of robotics and artificial intelligence I enjoy creating projects on the side wich introduces physical and virtual problems that is not always so common in the academia side of my studies. 
 
 <p align="center">
 <img src="https://github.com/MathiasSagbakken/Robot-cocktailmixer-V2/blob/master/robot_gif1.gif" alt="robot_cocktailmixer"
