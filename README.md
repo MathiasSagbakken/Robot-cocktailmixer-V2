@@ -1,8 +1,10 @@
 
 # Robot-cocktailmixer-V2
 
-
+<p align="center">
 A robot cocktail mixer which mixes drinks based on user input.
+</p>
+
 
 <p align="center">
 <img src="https://github.com/MathiasSagbakken/Robot-cocktailmixer-V2/blob/master/robot_image1.jpg" alt="robot_cocktailmixer"
