@@ -3,7 +3,7 @@
 # Robot-cocktailmixer-V2
 
 
-A robot cocktail mixer which mixes drinks based on user input.
+A robot cocktail mixer which mixes drinks based on user input. A drink is chosen by pressing the picture of the spescific cocktail in the recycleview on the touchscreen. After having accepted your doom, the robot will go to all the diffent ingredients for the specific cocktail and pour the correct volume. The time it takes to make one drink varies by the amount of liquid, but is most often between 30 and 60 seconds. 
 
 
 
