@@ -18,6 +18,7 @@ The python (GUI) part only requires Kivy gui, and Serial which can easly be obta
 
 * Requires kivy 2.0	(conda install kivy -c conda-forge)
 * Requires serial	(pip install serial)
+* Upload arduino code to arduino of your choosing
 
 note: The GUI is coded in a way that it requires to be connected to an arduino so that it has a serial connection to start. This is commented out in the code, so this will not be a problem if you only want to boot up the GUI without having to deal with an arduino. As stated in the kivy install guide, its recomended to install kivy in a virtual enviroment.
 
