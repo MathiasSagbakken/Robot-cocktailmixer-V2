@@ -40,6 +40,14 @@ I wanted to make the software side convenient and easy to use. Therefore all one
 	title="Front view of the robot" width="400" height="600" />
 </p>
 
+# Features
+* Touchscreen control
+* A fast and easy to use graphical user interface. 
+* All recepies are stored in a readable JSON file and the majority of cocktails comes from an open source cocktail api called thecocktaildb. This way all the user needs to do is to input ingredients one intends to use and all possibe cocktails will be displayed.
+* Option to add a cocktail to the JSON file through the GUI on the touchscreen
+* Option to remove a cocktail in the JSON file through the GUI on the touchscreen
+* 8 dispensers, therefore support for 8 different ingredients 
+
 
 # Parts list
 
