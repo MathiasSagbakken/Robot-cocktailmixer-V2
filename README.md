@@ -51,7 +51,8 @@ Main construction:
 * 8 bar optics 25ml
 * 2 aluminium racks for the bar optics
 * 1 aluminium profile V-Slot 2060
-* 
+* M8 screws
+* M8 spacers
 
 Electronics:
 * power supply of 12 volt
@@ -60,9 +61,25 @@ Electronics:
 * Power cable for arduino nano
 * Raspberry pi 3b+
 * Power cable for raspberry pi
+* 2 NEMA 17 stepper motors of medium size (Y-axis motor has to have about 1 miliamp from the stepperdriver or it wont have enough tourqe to activate dispensers)
+* Official raspberry pi touchscreen
+* 2 limit switches
+* 2 5k ohm ressistance
+* 2 50v capacitors
+* female to female wires
+* male to female wires
+* male to male wires
+* 10m 0.75mm^2 copper wires
 
 Carriage:
 * 1 timing pulley 30 tooth
 * 1.3m timing belt 2GT
 * Aluminium spacers
-* 
+* Ratrig Delrin Wheels for aluminiumprofile
+* 2 Aluminium buildplates
+* 1 Anti-Backlash Nut Block for 8mm Metric Acme Lead Screw
+* 1 25cm 8mm lead screw
+* 1 aluminium 50cm 8mm rod
+* 1 5mm* 8mm Flexible Coupling  
+* M5 screws
+* M3 screws
