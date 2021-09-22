@@ -41,5 +41,28 @@ I wanted to make the software side convenient and easy to use. Therefore all one
 </p>
 
 
+# Parts list
 
+necessary parts that I used for this project:
 
+Main construction:
+* Coffe table 100cm*45cm*50cm
+* A metal plate (brass) with dimensions 100cm*50cm
+* 8 bar optics 25ml
+* 2 aluminium racks for the bar optics
+* 1 aluminium profile V-Slot 2060
+* 
+
+Electronics:
+* power supply of 12 volt
+* 2 A4988 stepper motor driver
+* 1 arduini nano
+* Power cable for arduino nano
+* Raspberry pi 3b+
+* Power cable for raspberry pi
+
+Carriage:
+* 1 timing pulley 30 tooth
+* 1.3m timing belt 2GT
+* Aluminium spacers
+* 
