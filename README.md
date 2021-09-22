@@ -28,12 +28,13 @@ note: The GUI is coded in a way that it requires to be connected to an arduino s
 </p>
 
 
-# Motivation and solution to problem
+# Motivation and solution to problems
 
 As a student of robotics and artificial intelligence I enjoy creating projects on the side wich introduces physical and virtual problems that is not always so common in the academia side of my studies. I saw examples of these types of robots and thought it would make a great project. This project was very much made from scratch starting with planning the design of the robot and then implementation of code.
 
-I wanted to make the software side convenient and easy to use. Therefore all one needs to use the robot is to hook up bottles to dispensers and type in the Ingrdients. The program will then cross refference the ingredients to recepies of all cocktails in the database (json file containing around 600 different cocktails) and if all the ingredients of a cocktail is in the user-inputted ingredient list, there is a match and the cocktail will be displayed in the GUI on the touchscreen. The cocktails in the database is taken from an open source database called "thecocktaildb". The program also lets the user input custom cocktails or remove them. 
+I wanted to make the software side convenient and easy to use. Therefore all one needs to use the robot is to hook up bottles to dispensers and type in the Ingredients. The program will then cross refference the ingredients to recepies of all cocktails in the database (json file containing around 600 different cocktails) and if all the ingredients of a cocktail is in the user-inputted ingredient list, there is a match and the cocktail will be displayed in the GUI on the touchscreen. The cocktails in the database is taken from an open source database called "thecocktaildb". The program also lets the user input custom cocktails or remove them. 
 
+I had problems making the disepensing of liquid reliable. The dispenser did not always refill. My solution to this was getting better quality optics and use very spesific glass bottles or make a hole in plastic bottles. The problem occurs as a result of air preassure over and under the liquid. With my newer solution i have not had a single problem with my dispensers, which means a 100% accuracy so far.
 
 <p align="center">
 <img src="https://github.com/MathiasSagbakken/Robot-cocktailmixer-V2/blob/master/robot_image2.jpg" alt="robot_cocktailmixer"
