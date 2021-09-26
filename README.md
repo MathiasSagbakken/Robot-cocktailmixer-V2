@@ -41,6 +41,13 @@ I had problems making the disepensing of liquid reliable. The dispenser did not 
 	title="Front view of the robot" width="400" height="600" />
 </p>
 
+# What I want to implement and improve in the future
+With all projects there is always a limited amount of time to spend, and things you wish you were able to do. Here is a list of features and improvements I would implement if i ever revisist the project. 
+
+* Structure the code in the build function in the main.py file properly. This was my first attempt at making an app-based GUI and it very much works, but the code structure for the build function is way to big, and should be put in multiple classes in multiple files. 
+* A feature that lets you make a drink fast, based on ingredient placements and not names, and that will not be saved to the main json file.
+* Figure out how kivy handles Virtual keyboards, so I only would need to have made one and not multiple.    
+
 # Features
 * Touchscreen control
 * A fast and easy to use graphical user interface. 
