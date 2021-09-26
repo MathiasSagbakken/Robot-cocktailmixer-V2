@@ -41,7 +41,7 @@ I had problems making the disepensing of liquid reliable. The dispenser did not 
 	title="Front view of the robot" width="400" height="600" />
 </p>
 
-# What I want to implement and improve in the future
+# What I want to implement and improve on in the future
 With all projects there is always a limited amount of time to spend, and things you wish you were able to do. Here is a list of features and improvements I would implement if i ever revisist the project. 
 
 * Structure the code in the build function in the main.py file properly. This was my first attempt at making an app-based GUI and it very much works, but the code structure for the build function is way to big, and should be put in multiple classes in multiple files. 
